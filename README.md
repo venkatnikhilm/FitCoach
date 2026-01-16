@@ -65,7 +65,7 @@ The platform harnesses **OpenAI's GPT models** to generate personalized fitness 
    ```
 
 2. **Configure environment variables**
-   - Set up OpenAI API keys
+   - Set up OpenAI API
    - Configure Keycloak connection details
    - Update database credentials
 
